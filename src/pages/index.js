@@ -10,8 +10,12 @@ const IndexPage = () => {
           <div className="content">
             <h1 className="has-text-weight-bold is-size-2">FC United</h1>
             <h3>Probably the best floorball team in Victoria</h3>
-            <p>Our latest victim:</p>
-            <img src={latestKill} alt="dead penguin" />
+            <img
+              src={latestKill}
+              alt="dead penguin"
+              title="Our latest victim"
+            />
+            <p>Our latest victim</p>
           </div>
         </div>
       </section>
