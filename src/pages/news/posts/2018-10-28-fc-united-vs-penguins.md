@@ -11,6 +11,9 @@ tags:
 
 After a tough start to the season against Royals, the FC United side were eager to get the first W of the year. With an effort to play with 3 forwards pairs the United side played with 4 players on the defence and center. The team sheet looked like the following:
 
+**Goal**
+Alex
+
 **Defence and Center**
 
 - Will
@@ -45,12 +48,20 @@ For the second period it looked as if the tactic to play with 4 players on the 2
 
 Going into the third with a comfortable lead, the main job for United was to keep control of the game and shut the Penguins down. They pulled the team back, with less agressive stress on the oponent's third of the field. Still, it didn't end the scoring fest and the last goal saw youngster Dave become the first FC United player to score a hat-trick.
 
+### Final
+The team building is starting to shape up and there were moments when FC United really showed what they were capable of. But there are still kinks that need to be ironed out before they can confidently say they are the best team in Victoria (probably).
+
 ### Game stats
-| Player          | Goals | Assists | Points |
-| --------------- | ----: | ------: | -----: |
-| David Noney     | 3     | 0?      | 3      |
-| Shaun Griffin   | 1     | 2       | 3      |
-| Beppe Karlsson  | 2     | 0       | 2      |
-| Carl Hammarlund | 1?    | 1?      | 2?     |
-| Tom Delaney     | 0     | 1?      | 1?     |
-| Ulf Johansson   | 1?    | 0?      | 1?     |
+| Player           | Goals | Assists | Points |
+| ---------------- | ----: | ------: | -----: |
+| David Noney      | 3     | 0?      | 3      |
+| Shaun Griffin    | 1     | 2       | 3      |
+| Beppe Karlsson   | 2     | 0       | 2      |
+| Carl Hammarlund  | 1?    | 1?      | 2?     |
+| Tom Delaney      | 0     | 1?      | 1?     |
+| Ulf Johansson    | 1?    | 0?      | 1?     |
+| Ben Looby        | 0?    | 0?      | 0?     |
+| Andrew Cook      | 0?    | 0?      | 0?     |
+| Alex Gibson      | 0?    | 0?      | 0?     |
+| Alex Lowden      | 0?    | 0?      | 0?     |
+| William Crawford | 0?    | 0?      | 0?     |
