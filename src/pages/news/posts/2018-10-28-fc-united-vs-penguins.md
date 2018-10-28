@@ -59,9 +59,9 @@ The team building is starting to shape up and there were moments when FC United 
 | Beppe Karlsson   | 2     | 0       | 2      |
 | Carl Hammarlund  | 1?    | 1?      | 2?     |
 | Tom Delaney      | 0     | 1?      | 1?     |
-| Ulf Johansson    | 1?    | 0?      | 1?     |
+| Ulf Johansson    | 1     | 0?      | 1?     |
 | Ben Looby        | 0?    | 0?      | 0?     |
-| Andrew Cook      | 0?    | 0?      | 0?     |
-| Alex Gibson      | 0?    | 0?      | 0?     |
-| Alex Lowden      | 0?    | 0?      | 0?     |
 | William Crawford | 0?    | 0?      | 0?     |
+| Andrew Cook      | 0     | 0?      | 0?     |
+| Alex Gibson      | 0     | 0?      | 0?     |
+| Alex Lowden      | 0     | 0?      | 0?     |
