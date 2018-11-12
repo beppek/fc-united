@@ -12,8 +12,8 @@ const IndexPage = () => {
           <div className="content">
             <h1 className="has-text-weight-bold is-size-2">United FC</h1>
             <h3>Probably the best floorball team in Victoria</h3>
-            <img src={deadPenguin} alt="dead penguin" title="Victim number 1" />
-            <img src={deadEagle} alt="dead eagle" title="Victim number 2" />
+            <img src={deadPenguin} alt="dead penguin" title="W 8-3" />
+            <img src={deadEagle} alt="dead eagle" title="w 9-8" />
             <h4>Our trophies</h4>
           </div>
         </div>
