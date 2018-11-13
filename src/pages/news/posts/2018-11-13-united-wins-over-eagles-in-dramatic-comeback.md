@@ -8,6 +8,8 @@ description: >-
 tags:
   - eagles
 ---
+![Floorball with smoke](/img/united-logo.svg)
+
 Once again the United team were victorious in a tightly contested game where the opponent took advantage of the many mistakes the team made.
 
 The game didn't start well for United who let 2 balls slip over the goal line before putting their first on the board. The Eagles looked hungry and capitalised on the far too many and simple mistakes of the United side who looked a pale shadow of the strong team that beat the Penguins 2 weeks prior.
