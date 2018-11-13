@@ -14,7 +14,7 @@ const TemplateWrapper = ({ children }) => (
       <link rel="icon" type="image/png" href="/favicon.png" />
     </Helmet>
     <Navbar />
-    <div>{children}</div>
+    <div style={{ height: 'calc(100vh - 66.5px)' }}>{children}</div>
   </div>
 );
 
